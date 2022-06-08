@@ -1,1 +1,1 @@
-# jwp_2022
+Ujian Kompetensi Junior Web Programmer Tahun 2022
